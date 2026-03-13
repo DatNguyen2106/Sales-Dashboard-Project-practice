@@ -30,10 +30,10 @@ Superstore dataset from Kaggle.
 ## Dashboard Preview
 
 ### Sales Comparison
-![Sales Comparison](images/page1-sales-comparison.png)
+![Sales Comparison](images/page1-general-overview.png)
 
 ### General Overview
-![General Overview](images/page2-general-overview.png)
+![General Overview](images/page2-sales-comparison.png)
 
 ### Regional Performance Analysis
 ![Regional Analysis](images/page3-regional-analysis.png)
